@@ -1,5 +1,7 @@
 # Cloud-Native Web Application Infrastructure
 
+> A fully-automated, security-first cloud platform spanning three independently versioned repositories, converging into an encrypted, highly available AWS deployment across isolated DEV and DEMO environments.
+
 [![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.0-green?logo=springboot)](https://spring.io/projects/spring-boot)
 [![Terraform](https://img.shields.io/badge/Terraform-1.5+-purple?logo=terraform)](https://www.terraform.io/)
