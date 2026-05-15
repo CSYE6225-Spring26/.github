@@ -8,7 +8,8 @@
 
 A production-grade cloud-native application deployed across two isolated AWS environments (**DEV** and **DEMO**) using fully automated CI/CD pipelines. The system is built around immutable infrastructure — every code change triggers an AMI rebuild, a new Launch Template version, and a rolling instance refresh with zero manual intervention.
 
-![Architecture Diagram](https://github.com/user-attachments/assets/7075be82-71e8-407a-b4aa-6e97732f7114)
+## Architecture Diagram
+![Architecture Diagram](https://github.com/user-attachments/assets/0b720482-d6a8-420b-993b-9b3410dba1e5)
 
 ---
 
