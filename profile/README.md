@@ -1,7 +1,12 @@
 # Cloud-Native Web Application Infrastructure
 
-**Stack:** Java 21 · Spring Boot · Terraform · Packer · AWS Lambda · GitHub Actions
-
+[![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)](https://openjdk.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.0-green?logo=springboot)](https://spring.io/projects/spring-boot)
+[![Terraform](https://img.shields.io/badge/Terraform-1.5+-purple?logo=terraform)](https://www.terraform.io/)
+[![Packer](https://img.shields.io/badge/Packer-1.15-blue?logo=packer)](https://www.packer.io/)
+[![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws)](https://aws.amazon.com/)
+[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-Java21-FF9900?logo=awslambda)](https://aws.amazon.com/lambda/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-black?logo=githubactions)](https://github.com/features/actions)
 ---
 
 ## Overview
